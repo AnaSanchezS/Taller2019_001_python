@@ -2,7 +2,7 @@
 
 # Import Statements
 import unittest
-import automatedAlarm
+import AutomatedAlarm
 
 class KnownValues(unittest.TestCase):
 
